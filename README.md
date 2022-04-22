@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Web development
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning web front-end
   - 👯 I’m looking to collaborate on <a href="https://www.maidusa-network.com">maidusa Network</a><br>
 - 💬 Ask me about Everything
