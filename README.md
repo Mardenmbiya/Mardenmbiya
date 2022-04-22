@@ -1,4 +1,4 @@
-### Hi there 👋 Im Marden Mbiya
+### Hi there 👋 I'm Marden Mbiya
 <p> i'm Marden Mbiya, a software designer at <strong>Marden Software</strong </p>
 
 <!--
@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning web front-end
   - 👯 I’m looking to collaborate on <a href="https://www.maidusa-network.com">maidusa Network</a><br>
-- 💬 Ask me about ...
+- 💬 Ask me about Everything
   
 - 📫 How to reach me: ...
   <p align="center">
