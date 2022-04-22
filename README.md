@@ -12,7 +12,12 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...
   
 - 📫 How to reach me: ...
-  - <a href="https://www.linkedin.com/in/marden-mbiya/">linkedIn</a><br><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px">
+  <p align="center">
+<a href="https://www.linkedin.com/in/marden-mbiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mardenmbiya-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/mardenmbiya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-mardenmbiya-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:mardenmbiya@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-mardenmbiya-blue?style=flat-square"></a>
+</p>
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
