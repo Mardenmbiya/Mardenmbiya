@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning web Front-end
-  - 👯 I’m looking to collaborate on <a href="https://www.maidusa-network.com">maidusa Network</a><br>
+  - 👯 I’m looking to collaborate on <a href="https://www.maidusa-network.com">Maidusa Network</a><br>
 - 💬 Ask me about Everything
   
 - 📫 How to reach me: ...
