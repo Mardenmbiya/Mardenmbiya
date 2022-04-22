@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 </p>
   
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Designer
 
 ## Techs i use
   <p>
