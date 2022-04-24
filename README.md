@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Marden Mbiya
-<p> i'm Marden Mbiya, a software designer at <strong>Marden Software</strong </p>
+<p>A software designer at <strong>Marden Software</strong </p>
 
 <!--
 **Mardenmbiya/Mardenmbiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
