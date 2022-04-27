@@ -18,7 +18,7 @@ Here are some ideas to get you started:--->
 <a href="mailto:mardenmbiya@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-mardenmbiya-blue?style=flat-square"></a>
 </p>
   
-- 😄 Pronouns: ...
+- 😄 Pronouns: Idk.
 - ⚡ Fun fact: Designer UI|UX and Web development
 
 ## Techs i use actually!!
