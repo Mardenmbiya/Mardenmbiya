@@ -11,7 +11,7 @@ Here are some ideas to get you started:--->
 - 👯 I’m looking to collaborate on <a href="https://www.maidusa-network.com">Maidusa Network</a><br>
 - 💬 Ask me about Everything!
   
-- 📫 How to reach me:....
+- 📫 How to reach me:...
   <p align="center">
 <a href="https://www.linkedin.com/in/marden-mbiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mardenmbiya-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/mardenmbiya"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-mardenmbiya-blue?style=flat-square&logo=twitter"></a>
