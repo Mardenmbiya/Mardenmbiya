@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 </p>
   
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Designer UI|UX, Graphist and Web development!
+- ⚡ Fun fact: Designer UI|UX, Graphist and Web development!!
 
 ## Techs i use actually: I use
   <p>
