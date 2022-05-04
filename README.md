@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Web Development and Design!
 - 🌱 I’m currently learning Web Front-end!
 - 👯 I’m looking to collaborate on <a href="https://www.maidusa-network.com">Maidusa Network</a><br>
-- 💬 Ask me about Computer Science
+- 💬 Ask me about Computer Science and Techs
   
 - 📫 How to reach me:...
   <p align="center">
