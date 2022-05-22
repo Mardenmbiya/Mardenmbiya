@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Development!**
 
-- 👨‍💻 All of my projects are available at [mardenmbiya.link](mardenmbiya.link)
+- 👨‍💻 All of my projects will be available at [mardenmbiya.link](mardenmbiya.link)
 
 - 📝 I regularly write articles on [Letecode.com](Letecode.com)
 
