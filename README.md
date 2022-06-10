@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mardenmbiya" target="blank"><img src="https://img.shields.io/twitter/follow/mardenmbiya?logo=twitter&style=for-the-badge" alt="mardenmbiya" /></a> </p>
 
-- 🔭 I’m currently working on **Maidusa Network**
+- 🔭 I’m currently working on **Maidusa Network*
 
 - 🌱 I’m currently learning **Frameworks and Courses*
 
