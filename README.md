@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mardenmbiya@gmailm.com*
+- 📫 How to reach me **mardenmbiya@gmail.com*
 
 - 📄 Know about my experiences [mardenmbiya.link](mardenmbiya.link)
 
