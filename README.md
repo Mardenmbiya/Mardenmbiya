@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Maidusa Network**
 
-- 🌱 I’m currently learning **Frameworks and Courses*
+- 🌱 I’m currently learning **Frameworks and Courses**
 
 - 👯 I’m looking to collaborate on **Every Project about Design & Web**
 
