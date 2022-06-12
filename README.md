@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [mardenmbiya.link](mardenmbiya.link)
 
-- ⚡ Fun fact **I think I'm not funny at all!**
+- ⚡ Fun fact **I think I'm not funny at all!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
